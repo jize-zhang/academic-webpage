@@ -19,7 +19,7 @@ authors = ["Jize Zhang", "Alexandros Taflanidis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4(3), _pp. 04018021_"
+publication = "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering"
 publication_short = "ASCE-ASME J. Risk Uncertainty Eng. Syst., Part A: Civ. Eng."
 
 # Abstract and optional shortened version.
@@ -66,7 +66,4 @@ doi = "10.1061/AJRUA6.0000969"
 caption = "Fig. 1: Indirect inference model calibration."
 focal_point = "Top"
 preview_only = true
-
 +++
-
-# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
