@@ -19,7 +19,7 @@ authors = ["Jize Zhang", "Alexandros Taflanidis", "Juan Camilo Medina"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Computer Methods in Applied Mechanics and Engineering, (315), _pp. 369-395_"
+publication = "Computer Methods in Applied Mechanics and Engineering"
 publication_short = "CMAME"
 
 # Abstract and optional shortened version.
@@ -66,5 +66,3 @@ doi = "10.1016/j.cma.2016.10.042"
 focal_point = "Smart"
 preview_only = true
 +++
-
-# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
