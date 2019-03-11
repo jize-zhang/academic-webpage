@@ -19,7 +19,7 @@ authors = ["Jize Zhang", "Alexandros Taflanidis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Structural and Multidisciplinary Optimization, _pp. 1-22_"
+publication = "Structural and Multidisciplinary Optimization"
 publication_short = "SMO"
 
 # Abstract and optional shortened version.
@@ -65,6 +65,3 @@ doi = "10.1007/s00158-018-2069-1"
 [image]
 focal_point = "Smart"
 preview_only = true
-+++
-
-# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
