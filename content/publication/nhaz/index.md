@@ -1,13 +1,6 @@
 +++
 title = "Advances in surrogate modeling for storm surge prediction: storm selection and addressing characteristics related to climate change"
 
-  journal={Natural Hazards},
-  volume={94},
-  number={3},
-  pages={1225--1253},
-  year={2018},
-  publisher={Springer}
-
 # Date first published.
 date = "2018-09-08"
 
