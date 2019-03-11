@@ -73,3 +73,4 @@ doi = "10.1007/s11069-018-3470-1"
 caption = "Fig. 1: Indirect inference model calibration."
 focal_point = "Top"
 preview_only = true
++++
