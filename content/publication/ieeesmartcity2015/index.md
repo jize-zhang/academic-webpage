@@ -67,4 +67,3 @@ doi = "10.1109/SmartCity.2015.54"
 # preview_only = true
 +++
 
-# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
