@@ -9,7 +9,7 @@ title = "Advances in surrogate modeling for storm surge prediction: storm select
   publisher={Springer}
 
 # Date first published.
-date = "2018-09-18"
+date = "2018-09-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jize Zhang", "Alexandros Taflanidis","Norberto Nadal-Caraballo", "Jeffrey Melby", "Fatimata Diop"]
