@@ -1,14 +1,8 @@
 +++
 date = "2019-03-11T2:27:40-04:00"
 math = false
-summary = "xx"
 tags = ["methodology"]
-title = "xxx"
-
-[image]
-  caption = ""
-  focal_point = "Right"
-+++
+title = "Design under uncertainty"
 
 {{< figure library="1" src="design.PNG" title="A caption" >}}
 
