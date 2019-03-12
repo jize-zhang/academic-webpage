@@ -11,4 +11,4 @@ In the transition of the US energy economy from traditional technologies to rene
 
 This project constitutes an effort to rectify these issues, and deliver an accurate and efficient approach for assessing and optimizing the power generation potential. The computational demand will be reduced by the incorporation of a statistical emulator (metamodel) that can efficiently predict the hydrodynamic interactions based on small number of evaluations of the initial, computationally expensive numerical model. Uncertainties both associated with such emulator prediction and with the wave climate will be characterized and incorporated into the formulation of optimization problem. The resultant WEC formation to emerge from this approach will be truly optimal; i.e., no other formation, regardless of how it is controlled, will out-perform it. Once developed, the technique can be applied for both for site scoping as well as actual array design.
 
-
++++
