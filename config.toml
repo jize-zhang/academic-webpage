@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Notre Dame", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "jize (dot) zhang (dot) 204 [at] nd (dot) edu"
@@ -226,7 +226,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 2
+    post_format = 0
 
     # Publication list format.
     #   0 = Simple
@@ -303,7 +303,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
@@ -313,7 +313,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 2
 
 #[[menu.main]]
 #  name = "Tutorials"
