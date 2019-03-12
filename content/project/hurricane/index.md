@@ -21,4 +21,4 @@ In addition, we proposed the adaptive selection strategy of synthetic storms for
 (b) adjustments to support two implementation issues that might become more relevant due to climate change considerations: including the prediction for intensified storms exceeding all available ones in initial synthetic-storm database (which
 unavoidably requires implementation for extrapolating predictions), and the surge estimation for sea level rise (SLR) scenarios.
 {{< figure library="1" src="hurricane4.png">}}
-
++++
